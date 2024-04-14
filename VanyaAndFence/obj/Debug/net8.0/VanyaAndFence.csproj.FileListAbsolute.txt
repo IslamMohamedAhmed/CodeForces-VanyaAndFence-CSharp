@@ -1,0 +1,14 @@
+C:\Users\Islam Mohamed\Documents\C# Projects\VanyaAndFence\VanyaAndFence\bin\Debug\net8.0\VanyaAndFence.exe
+C:\Users\Islam Mohamed\Documents\C# Projects\VanyaAndFence\VanyaAndFence\bin\Debug\net8.0\VanyaAndFence.deps.json
+C:\Users\Islam Mohamed\Documents\C# Projects\VanyaAndFence\VanyaAndFence\bin\Debug\net8.0\VanyaAndFence.runtimeconfig.json
+C:\Users\Islam Mohamed\Documents\C# Projects\VanyaAndFence\VanyaAndFence\bin\Debug\net8.0\VanyaAndFence.dll
+C:\Users\Islam Mohamed\Documents\C# Projects\VanyaAndFence\VanyaAndFence\bin\Debug\net8.0\VanyaAndFence.pdb
+C:\Users\Islam Mohamed\Documents\C# Projects\VanyaAndFence\VanyaAndFence\obj\Debug\net8.0\VanyaAndFence.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Islam Mohamed\Documents\C# Projects\VanyaAndFence\VanyaAndFence\obj\Debug\net8.0\VanyaAndFence.AssemblyInfoInputs.cache
+C:\Users\Islam Mohamed\Documents\C# Projects\VanyaAndFence\VanyaAndFence\obj\Debug\net8.0\VanyaAndFence.AssemblyInfo.cs
+C:\Users\Islam Mohamed\Documents\C# Projects\VanyaAndFence\VanyaAndFence\obj\Debug\net8.0\VanyaAndFence.csproj.CoreCompileInputs.cache
+C:\Users\Islam Mohamed\Documents\C# Projects\VanyaAndFence\VanyaAndFence\obj\Debug\net8.0\VanyaAndFence.dll
+C:\Users\Islam Mohamed\Documents\C# Projects\VanyaAndFence\VanyaAndFence\obj\Debug\net8.0\refint\VanyaAndFence.dll
+C:\Users\Islam Mohamed\Documents\C# Projects\VanyaAndFence\VanyaAndFence\obj\Debug\net8.0\VanyaAndFence.pdb
+C:\Users\Islam Mohamed\Documents\C# Projects\VanyaAndFence\VanyaAndFence\obj\Debug\net8.0\VanyaAndFence.genruntimeconfig.cache
+C:\Users\Islam Mohamed\Documents\C# Projects\VanyaAndFence\VanyaAndFence\obj\Debug\net8.0\ref\VanyaAndFence.dll
